@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "bd": "json-server server.json -p 3333"
+    "db": "json-server server.json -p 3333"
   },
   "eslintConfig": {
     "extends": "react-app"
